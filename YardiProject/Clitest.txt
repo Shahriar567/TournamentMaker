@@ -1,0 +1,119 @@
+Welcome to the Soccer Tournament Software:
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+1
+Enter tournament name
+la liga
+Successful in creating Tournament: la liga
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+6
+Display stats for all teams in tournament
+No team registered in tournament
+No game registered in tournament
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+2
+Enter team name :
+madrid
+Enter team Location :
+spain
+Add team to tournament ? >> y/n
+y
+Successful in creating team: madrid
+2
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+6
+Display stats for all teams in tournament
+Team name: madrid
+     matches played: 0
+     total points:   0
+
+
+No game registered in tournament
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+2
+Enter team name :
+barca
+Enter team Location :
+spain
+Add team to tournament ? >> y/n
+y
+Successful in creating team: barca
+2
+
+ Main Menu:
+--------------
+1.Create a tournament
+2.Create team
+3.Report a game
+4.Create player
+5.Create coach
+6.Display tournament stats
+7.Exit
+--------------
+Enter your choice:
+6
+Display stats for all teams in tournament
+Team name: madrid
+     matches played: 0
+     total points:   0
+
+Team name: barca
+     matches played: 0
+     total points:   0
+
+
+No game registered in tournament
